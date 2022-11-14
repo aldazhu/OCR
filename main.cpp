@@ -1,6 +1,8 @@
 #include <iostream>
 
-void mian()
+int main()
 {
-	printf("Hello world\n");
+    std::cout<<"Hello world\n";
+    printf(" print f Hello world\n");
+    return 0;
 }
